@@ -1,1 +1,1 @@
-yourArray = ["one", 34, true, null, "four"];
+var yourArray = ["one", 34, true, null, "four"];
